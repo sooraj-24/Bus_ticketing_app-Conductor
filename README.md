@@ -1,6 +1,7 @@
 # UniGo- Conductor Application
 
 The Bus Conductor App for UniGo is designed and developed for bus conductors to efficiently manage bus sessions and verify student tickets by scanning their QR codes.
+<p>This Bus Ticketing System consists of two applications, one for the students and the other one for the conductors. You can access the student application here - https://github.com/sooraj-24/Bus_ticketing_application </p>
 
 ## Features
 
