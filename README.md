@@ -1,16 +1,43 @@
-# buts_conductor_app
+# UniGo- Conductor Application
 
-A new Flutter project.
+The Bus Conductor App for UniGo is designed and developed for bus conductors to efficiently manage bus sessions and verify student tickets by scanning their QR codes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Start and manage bus sessions.
+- Scan QR codes to verify student tickets.
+- View the list of students travelling in a bus.
+- An intuitive and innovative User Interface and User Experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Running the App Locally
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this application on your local machine, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+1. Ensure you have Flutter and Dart installed on your system. If not, you can follow the installation instructions here: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
+
+Clone the Repository
+```bash
+git clone https://github.com/sooraj-24/Bus_ticketing_app-Conductor.git
+```
+
+Navigate to the project directory
+```bash
+cd Bus_Conductor_App
+```
+
+Install dependencies
+```bash
+flutter pub get
+```
+
+Run the app:
+```bash
+flutter run
+```
+
+## Questions and Feedback
+If you have any questions or encounter issues while running the app locally, feel free to reach out at 2sooraj4@gmail.com.
+I hope you enjoy using UniGo!
+
